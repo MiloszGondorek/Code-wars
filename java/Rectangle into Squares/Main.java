@@ -1,3 +1,4 @@
+task url: https://www.codewars.com/kata/55466989aeecab5aac00003e
 import java.util.*;
 
 class SqInRect{
